@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://igra-iz-tiktok.lb-game.ru/sitemap.xml
